@@ -1,6 +1,8 @@
 ## Hi there! 👋
+
 My name is Saul Aguilar
 I am a student at the University of Illinois Chicago studying Computer Science.
+
 🔭 I’m currently working on...
 - [Ray-Tracer-Implementation](https://github.com/Saul-AO/Ray-Tracer-Implementation): An implementation of a Ray Tracer based on the "Ray Tracing" series by Peter Shirley
 - Mini-Compiler: This is a small implementation of a C compiler.
