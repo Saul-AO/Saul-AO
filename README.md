@@ -1,14 +1,14 @@
 ## Hi there! 👋
 
-My name is Saul Aguilar
+My name is Saul Aguilar 🌱
 
-I am a student at the University of Illinois Chicago studying Computer Science.
+💻 I am a student at the University of Illinois Chicago studying Computer Science 💻
 
 Most people live their lives without even peering beneath the layers of abstraction built into modern software. My curiosity with
 understanding how they work drove me to study computer theory. My philosophy is simple: If you
 want to truly master a language, you need to understand its process.
 
-I am primarily focused on Software and Systems Engineering, but I am enthustiastic to learn different technologies in my field!
+I am primarily focused on Software and Systems Engineering, but I am enthusiastic to learn different technologies in my field 👨‍💻
 
 🔭 I’m currently working on...
 - [Ray-Tracer-Implementation](https://github.com/Saul-AO/Ray-Tracer-Implementation): An implementation of a Ray Tracer based on the "Ray Tracing" series by Peter Shirley
